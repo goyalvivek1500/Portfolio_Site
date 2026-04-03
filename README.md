@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-👉 *Add your deployed link here (Netlify / GitHub Pages)*
+👉 https://goyalvivek1500.github.io/Portfolio_Site/
 
 ---
 
